@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aalaa</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Django, REST API**
+- 🌱 I’m currently learning **Django, Javascript, REST API**
 
 - 💬 Ask me about **Python, C, Networking**
 

@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, C, Networking**
 
-- ⚡ Fun fact **I started by tracking satellites and stars, now I build apps that keep people connected. Whether it's space or cyberspace, i'm always chasing signals 🚀🌌**
+- ⚡ Fun fact **Started by tracking stars and satellites, now I build apps that keep people connected. Still chasing signals, just a different kind 🚀🌌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
